@@ -99,7 +99,7 @@ void Graph::findShortestDistance(string src) {
         if (airports[i]->weight==32767){
             cout<< airports[i]->name<<" could not be reached"<<endl;
         }
-        else cout << airports[i]->name << " reached with cost " << airports[i]->weight << endl;
+        else cout << airports[i]->name << " can be reached " << airports[i]->weight << " miles."<<endl;
     }
 
     for (int i = 0; i< airports.size(); i++){

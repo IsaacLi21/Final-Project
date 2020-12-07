@@ -164,4 +164,5 @@ void Queue::infectAndTrace(int start){
     for (int i=0; i<infectedAirports.size(); i++){
         cout<< infectedAirports[i]<<" was infected"<<endl;
     }
+
 }

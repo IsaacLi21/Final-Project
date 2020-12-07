@@ -58,8 +58,8 @@ int main (int argc, const char * argv[]){
                     "5. Infect a random flight and display infected airports\n"
                     "6. Search for scheduled flights\n"
                     "7. Have a flight take off\n"
-                    "8. Calculate the shortest distance between 2 airports\n"
-                    "9. See if an Airport is one that was visited\n"
+                    "8. Calculate the shortest distance to all airports from airport of you choosing\n"
+                    "9. See if an Airport is one that Southwest visits\n"
                     "10. Print list of Airport codes\n"
                     "11. Quit\n";
     

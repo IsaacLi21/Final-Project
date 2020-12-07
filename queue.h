@@ -10,7 +10,6 @@ struct flightQ{
     string depart;
     string arrive;
     string time;
-    bool infected;
 
     flightQ(){};
     flightQ(string d, string a, string t){
