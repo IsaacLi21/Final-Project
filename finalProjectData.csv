@@ -1,0 +1,301 @@
+Departing,Arriving,Distance(miles),departure time
+Kahului (OGG),San Jose (SJC),2350,08:03
+Honolulu (HNL),San Jose (SJC),2410,08:09
+Kahului (OGG),Oakland (OAK),2350,08:56
+Oakland (OAK),Kahului (OGG),2350,09:10
+San Jose (SJC),PHLI/PHLI,2500,09:15
+Oakland (OAK),Honolulu (HNL),2400,09:34
+Honolulu (HNL),Oakland (OAK),2400,09:41
+Sacramento (SMF),Kahului (OGG),2400,09:53
+Sacramento (SMF),Chicago (MDW),1790,11:24
+Burbank (BUR),Chicago (MDW),1740,11:25
+San Jose (SJC),Chicago (MDW),1830,11:39
+Las Vegas (LAS),Little Rock (LIT),1290,11:42
+Seattle (SEA),Chicago (MDW),1730,11:49
+San Diego (SAN),Nashville (BNA),1750,11:55
+Phoenix (PHX),Charlotte (CLT),1770,11:56
+Los Angeles (LAX),Chicago (MDW),1750,11:58
+Kahului (OGG),Sacramento (SMF),2400,12:00
+Las Vegas (LAS),Des Moines (DSM),1210,12:05
+Sacramento (SMF),Dallas (DAL),1440,12:13
+Phoenix (PHX),Pittsburgh (PIT),1810,12:14
+Phoenix (PHX),Buffalo (BUF),1910,12:23
+Denver (DEN),Cancun (CUN),1670,12:24
+Las Vegas (LAS),Wichita (ICT),986,12:29
+San Diego (SAN),Baltimore (BWI),2290,12:31
+San Diego (SAN),Houston (HOU),1310,12:36
+San Diego (SAN),Denver (DEN),852,12:37
+Chicago (MDW),Los Angeles (LAX),1750,12:39
+Las Vegas (LAS),Kansas City (MCI),1140,12:40
+Sacramento (SMF),Seattle (SEA),605,12:50
+Las Vegas (LAS),Chicago (MDW),1520,12:52
+Los Angeles (LAX),Baltimore (BWI),2320,12:55
+Los Angeles (LAX),Baltimore (BWI),2320,12:55
+Los Angeles (LAX),San Antonio (SAT),1210,12:57
+Phoenix (PHX),Chicago (MDW),1440,12:57
+Cancun (CUN),Baltimore (BWI),1390,12:58
+Denver (DEN),Cincinnati (CVG),1070,13:03
+Seattle (SEA),Denver (DEN),1020,13:04
+Denver (DEN),Jacksonville (JAX),1440,13:06
+Chicago (MDW),Las Vegas (LAS),1520,13:08
+Reno (RNO),Houston (HOU),1540,13:08
+Sacramento (SMF),Las Vegas (LAS),397,13:10
+Las Vegas (LAS),San Jose (SJC),385,13:12
+Los Angeles (LAX),Tucson (TUS),450,13:14
+Las Vegas (LAS),Oklahoma City (OKC),983,13:16
+Las Vegas (LAS),Omaha (OMA),1100,13:17
+Los Angeles (LAX),Denver (DEN),860,13:19
+Sacramento (SMF),Boise (BOI),437,13:19
+Phoenix (PHX),Spokane (GEG),1020,13:22
+Denver (DEN),Raleigh/Durham (RDU),1430,13:25
+Portland (PDX),San Jose (SJC),569,13:25
+Las Vegas (LAS),Sacramento (SMF),397,13:27
+Oakland (OAK),Seattle (SEA),672,13:28
+Denver (DEN),Oakland (OAK),954,13:29
+Oakland (OAK),Burbank (BUR),325,13:29
+San Jose (SJC),Phoenix (PHX),620,13:29
+Burbank (BUR),Sacramento (SMF),359,13:30
+San Jose Cabo (SJD),Denver (DEN),1190,13:30
+Reno (RNO),Las Vegas (LAS),346,13:31
+Las Vegas (LAS),Dallas (DAL),1060,13:33
+Denver (DEN),Seattle (SEA),1020,13:34
+Sacramento (SMF),Spokane (GEG),650,13:34
+Chicago (MDW),Fort Lauderdale (FLL),1170,13:35
+Ontario (ONT),Dallas (DAL),1200,13:35
+Salt Lake City (SLC),Chicago (MDW),1260,13:35
+Las Vegas (LAS),Portland (PDX),762,13:37
+St Louis (STL),Seattle (SEA),1700,13:42
+Salt Lake City (SLC),St Louis (STL),1150,13:46
+Kansas City (MCI),Orlando (MCO),1070,13:48
+Denver (DEN),Palm Springs (PSP),775,13:49
+Houston (HOU),Santa Ana (SNA),1350,13:52
+Nashville (BNA),San Diego (SAN),1750,13:52
+San Diego (SAN),Las Vegas (LAS),259,13:52
+Denver (DEN),Orlando (MCO),1540,13:53
+Houston (HOU),Baltimore (BWI),1240,13:55
+Omaha (OMA),Las Vegas (LAS),1100,13:55
+Los Angeles (LAX),Reno (RNO),391,13:58
+Denver (DEN),San Jose (SJC),946,13:59
+Denver (DEN),Chicago (MDW),893,14:00
+Oakland (OAK),Portland (PDX),544,14:00
+St Louis (STL),Las Vegas (LAS),1370,14:00
+Denver (DEN),San Diego (SAN),852,14:03
+Denver (DEN),Dallas (DAL),650,14:04
+Denver (DEN),Ontario (ONT),817,14:05
+Chicago (MDW),New York (LGA),722,14:09
+Austin (AUS),Indianapolis (IND),916,14:10
+Little Rock (LIT),Phoenix (PHX),1130,14:10
+New Orleans (MSY),Phoenix (PHX),1300,14:10
+Orlando (MCO),Denver (DEN),1540,14:10
+Denver (DEN),Baltimore (BWI),1490,14:14
+Houston (HOU),Miami (MIA),954,14:15
+Dallas (DAL),Milwaukee (MKE),850,14:16
+Dallas (DAL),Oakland (OAK),1460,14:17
+Phoenix (PHX),San Diego (SAN),304,14:17
+Denver (DEN),Kansas City (MCI),531,14:18
+San Antonio (SAT),St Louis (STL),787,14:19
+Houston (HOU),Phoenix (PHX),1020,14:20
+Phoenix (PHX),Baltimore (BWI),1990,14:22
+Chicago (MDW),Houston (HOU),937,14:23
+Phoenix (PHX),Minneapolis (MSP),1270,14:23
+Phoenix (PHX),Albuquerque (ABQ),328,14:24
+Houston (HOU),Detroit (DTW),1090,14:25
+Denver (DEN),Houston (HOU),882,14:28
+Chicago (MDW),Austin (AUS),967,14:29
+Dallas (DAL),Raleigh/Durham (RDU),1050,14:29
+Dallas (DAL),Baltimore (BWI),1210,14:30
+Dallas (DAL),Indianapolis (IND),756,14:30
+Houston (HOU),Las Vegas (LAS),1230,14:30
+Chicago (MDW),Salt Lake City (SLC),1260,14:31
+West Palm Beach (PBI),Chicago (MDW),1130,14:31
+Denver (DEN),Fort Myers (RSW),1600,14:33
+San Antonio (SAT),Phoenix (PHX),841,14:33
+Denver (DEN),Minneapolis (MSP),679,14:34
+Omaha (OMA),Phoenix (PHX),1040,14:35
+Punta Cana (MDPC),Baltimore (BWI),1510,14:35
+Chicago (MDW),Raleigh/Durham (RDU),630,14:37
+Miami (MIA),Houston (HOU),954,14:37
+Milwaukee (MKE),Dallas (DAL),850,14:37
+Denver (DEN),Detroit (DTW),1120,14:38
+Phoenix (PHX),Houston (HOU),1020,14:38
+St Louis (STL),San Antonio (SAT),787,14:38
+Austin (AUS),Long Beach (LGB),1220,14:39
+Denver (DEN),Las Vegas (LAS),627,14:39
+Dallas (DAL),Salt Lake City (SLC),998,14:40
+Phoenix (PHX),San Antonio (SAT),841,14:40
+Chicago (MDW),Phoenix (PHX),1440,14:42
+St Louis (STL),Denver (DEN),768,14:43
+Wichita (ICT),Las Vegas (LAS),986,14:44
+St Louis (STL),Tampa (TPA),869,14:45
+Dallas (DAL),Phoenix (PHX),877,14:46
+Boise (BOI),San Jose (SJC),523,14:48
+Houston (HOU),San Jose (SJC),1620,14:48
+New York (LGA),Houston (HOU),1430,14:48
+Rochester (ROC),Fort Myers (RSW),1170,14:48
+Phoenix (PHX),Nashville (BNA),1440,14:49
+Austin (AUS),Denver (DEN),768,14:50
+Nashville (BNA),Denver (DEN),1010,14:50
+San Antonio (SAT),Chicago (MDW),1040,14:50
+Phoenix (PHX),Kansas City (MCI),1040,14:52
+Tulsa (TUL),Las Vegas (LAS),1070,14:52
+Austin (AUS),Albuquerque (ABQ),613,14:53
+Denver (DEN),Phoenix (PHX),601,14:54
+Dallas (DAL),San Diego (SAN),1180,14:55
+Chicago (MDW),Birmingham (BHM),570,14:56
+Orlando (MCO),Houston (HOU),847,14:56
+Cleveland (CLE),Denver (DEN),1200,14:57
+Phoenix (PHX),Denver (DEN),601,14:58
+New Orleans (MSY),Denver (DEN),1060,14:59
+Kansas City (MCI),Nashville (BNA),489,15:00
+Phoenix (PHX),Las Vegas (LAS),255,15:00
+Omaha (OMA),Atlanta (ATL),820,15:01
+Houston (HOU),Tulsa (TUL),453,15:03
+Houston (HOU),San Diego (SAN),1310,15:03
+Chicago (MDW),Albuquerque (ABQ),1120,15:04
+Indianapolis (IND),Tampa (TPA),839,15:04
+Dallas (DAL),Denver (DEN),650,15:05
+Houston (HOU),Greer (GSP),843,15:05
+Pittsburgh (PIT),Orlando (MCO),834,15:05
+St Louis (STL),Oakland (OAK),1720,15:05
+Chicago (MDW),Omaha (OMA),423,15:07
+Grand Rapids (GRR),Denver (DEN),1010,15:09
+Orlando (MCO),Detroit (DTW),958,15:09
+Austin (AUS),Chicago (MDW),967,15:10
+Miami (MIA),Baltimore (BWI),948,15:10
+Minneapolis (MSP),Las Vegas (LAS),1300,15:11
+Nashville (BNA),San Antonio (SAT),822,15:14
+Chicago (MDW),Baltimore (BWI),608,15:15
+Dallas (DAL),Lubbock (LBB),292,15:15
+St Louis (STL),Phoenix (PHX),1260,15:15
+Tampa (TPA),St Louis (STL),869,15:16
+Dallas (DAL),Albuquerque (ABQ),579,15:17
+Dallas (DAL),Omaha (OMA),587,15:17
+Little Rock (LIT),Atlanta (ATL),451,15:18
+Chicago (MDW),Denver (DEN),893,15:19
+Kansas City (MCI),Los Angeles (LAX),1360,15:19
+Kansas City (MCI),Denver (DEN),531,15:19
+Nashville (BNA),Orlando (MCO),617,15:19
+Memphis (MEM),Phoenix (PHX),1260,15:20
+St Louis (STL),Washington (DCA),716,15:20
+Atlanta (ATL),Phoenix (PHX),1580,15:21
+Austin (AUS),Phoenix (PHX),866,15:22
+Albany (ALB),Denver (DEN),1600,15:23
+Austin (AUS),Baltimore (BWI),1340,15:25
+Fort Myers (RSW),Columbus (CMH),932,15:25
+Houston (HOU),Birmingham (BHM),569,15:25
+Houston (HOU),Indianapolis (IND),862,15:25
+San Juan (TJSJ),Baltimore (BWI),1570,15:26
+Chicago (MDW),Ontario (ONT),1700,15:27
+Dallas (DAL),Pittsburgh (PIT),1060,15:28
+Oklahoma City (OKC),Las Vegas (LAS),983,15:28
+Seattle (SEA),Denver (DEN),1020,15:29
+St Louis (STL),Milwaukee (MKE),317,15:29
+Baltimore (BWI),Tampa (TPA),843,15:30
+Minneapolis (MSP),Phoenix (PHX),1270,15:32
+Nashville (BNA),Kansas City (MCI),489,15:33
+Orlando (MCO),Austin (AUS),994,15:33
+Washington (DCA),Atlanta (ATL),547,15:33
+Baltimore (BWI),Fort Myers (RSW),921,15:35
+Dallas (DAL),New Orleans (MSY),436,15:35
+Fort Myers (RSW),Louisville (SDF),836,15:35
+Kansas City (MCI),Chicago (MDW),404,15:36
+Chicago (MDW),Phoenix (PHX),1440,15:38
+Dallas (DAL),El Paso (ELP),562,15:39
+Baltimore (BWI),St Louis (STL),735,15:40
+Chicago (MDW),Columbus (CMH),282,15:40
+Dallas (DAL),Houston (HOU),239,15:40
+Houston (HOU),Dallas (DAL),239,15:40
+Nashville (BNA),Austin (AUS),752,15:40
+Raleigh/Durham (RDU),Phoenix (PHX),1890,15:40
+San Antonio (SAT),Baltimore (BWI),1410,15:41
+St Louis (STL),Dallas (DAL),546,15:44
+Dallas (DAL),Las Vegas (LAS),1060,15:45
+New Orleans (MSY),Baltimore (BWI),998,15:45
+Philadelphia (PHL),Atlanta (ATL),667,15:45
+Dallas (DAL),Orlando (MCO),971,15:46
+San Diego (SAN),Chicago (MDW),1720,15:46
+Boston (BOS),Nashville (BNA),939,15:49
+Chicago (MDW),New Orleans (MSY),827,15:49
+Washington (DCA),Milwaukee (MKE),633,15:49
+Chicago (MDW),San Antonio (SAT),1040,15:50
+Dallas (DAL),San Antonio (SAT),248,15:50
+Dallas (DAL),Amarillo (AMA),323,15:50
+Baltimore (BWI),Orlando (MCO),788,15:51
+Baltimore (BWI),Chicago (MDW),608,15:51
+Orlando (MCO),Chicago (MDW),990,15:52
+Buffalo (BUF),Fort Lauderdale (FLL),1170,15:54
+Dallas (DAL),Tulsa (TUL),237,15:55
+Houston (HOU),KECP/KECP,569,15:55
+Houston (HOU),Denver (DEN),882,15:55
+Memphis (MEM),Chicago (MDW),481,15:55
+Atlanta (ATL),St Louis (STL),483,15:56
+Baltimore (BWI),Indianapolis (IND),513,15:56
+St Louis (STL),San Diego (SAN),1550,15:56
+Washington (DCA),Dallas (DAL),1180,15:56
+Wichita (ICT),Houston (HOU),565,15:57
+Baltimore (BWI),Islip (ISP),218,15:58
+Des Moines (DSM),Denver (DEN),588,15:59
+Kansas City (MCI),Oakland (OAK),1480,15:59
+Tampa (TPA),Indianapolis (IND),839,15:59
+Pittsburgh (PIT),Atlanta (ATL),527,16:00
+Baltimore (BWI),Charleston (CHS),473,16:04
+Orlando (MCO),St Louis (STL),880,16:04
+Louisville (SDF),Las Vegas (LAS),1620,16:07
+Manchester (MHT),Baltimore (BWI),376,16:08
+Tampa (TPA),Louisville (SDF),728,16:08
+Hartford/Windsor Locks (BDL),Baltimore (BWI),282,16:10
+Buffalo (BUF),Baltimore (BWI),281,16:11
+Fort Lauderdale (FLL),Columbus (CMH),975,16:11
+Baltimore (BWI),Hartford/Windsor Locks (BDL),282,16:15
+Columbus (CMH),Fort Lauderdale (FLL),975,16:15
+Boston (BOS),Baltimore (BWI),368,16:17
+New York (LGA),Atlanta (ATL),761,16:17
+Baltimore (BWI),Raleigh/Durham (RDU),256,16:19
+Grand Rapids (GRR),Baltimore (BWI),527,16:19
+San Juan (TJSJ),Orlando (MCO),1190,16:19
+Islip (ISP),Baltimore (BWI),218,16:20
+Raleigh/Durham (RDU),Atlanta (ATL),356,16:20
+Baltimore (BWI),Boston (BOS),368,16:22
+Baltimore (BWI),Buffalo (BUF),281,16:24
+Santa Ana (SNA),Oakland (OAK),370,16:24
+Columbus (CMH),Atlanta (ATL),448,16:25
+Baltimore (BWI),Phoenix (PHX),1990,16:26
+New York (LGA),Nashville (BNA),762,16:27
+Atlanta (ATL),Raleigh/Durham (RDU),356,16:28
+Tampa (TPA),Baltimore (BWI),843,16:32
+Rochester (ROC),Baltimore (BWI),277,16:34
+San Jose (SJC),Honolulu (HNL),2410,16:34
+Tampa (TPA),Fort Lauderdale (FLL),197,16:34
+Orlando (MCO),Pittsburgh (PIT),834,16:37
+Cincinnati (CVG),Orlando (MCO),757,16:38
+Miami (MIA),Baltimore (BWI),948,16:40
+Washington (DCA),Nashville (BNA),560,16:40
+Albany (ALB),Baltimore (BWI),288,16:41
+Baltimore (BWI),Fort Lauderdale (FLL),927,16:41
+Charlotte (CLT),Phoenix (PHX),1770,16:42
+Fort Lauderdale (FLL),Orlando (MCO),179,16:45
+Louisville (SDF),Atlanta (ATL),322,16:46
+Detroit (DTW),Houston (HOU),1090,16:47
+Las Vegas (LAS),Ontario (ONT),197,16:47
+Indianapolis (IND),Atlanta (ATL),433,16:49
+Atlanta (ATL),Dallas (DAL),718,16:50
+Cleveland (CLE),Baltimore (BWI),313,16:50
+New York (LGA),Tampa (TPA),1010,16:55
+Tampa (TPA),Columbus (CMH),830,16:57
+Buffalo (BUF),Las Vegas (LAS),1980,16:58
+Los Angeles (LAX),Austin (AUS),1230,16:58
+Orlando (MCO),Fort Myers (RSW),134,16:58
+Greer (GSP),Atlanta (ATL),154,16:59
+Columbus (CMH),Phoenix (PHX),1670,17:36
+Denver (DEN),Milwaukee (MKE),893,17:40
+Dallas (DAL),Indianapolis (IND),756,17:49
+Dallas (DAL),Charlotte (CLT),924,17:50
+Nashville (BNA),San Jose (SJC),1940,17:51
+Miami (MIA),Houston (HOU),954,18:08
+PHLI/PHLI,Oakland (OAK),2500,18:33
+Indianapolis (IND),Baltimore (BWI),513,18:51
+Baltimore (BWI),Orlando (MCO),788,18:52
+St Louis (STL),Dallas (DAL),546,18:58
+Orlando (MCO),Raleigh/Durham (RDU),524,19:35
+KECP/KECP,Houston (HOU),569,20:35
+KECP/KECP,Nashville (BNA),402,21:27

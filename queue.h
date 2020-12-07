@@ -10,6 +10,7 @@ struct flightQ{
     string depart;
     string arrive;
     string time;
+    bool infected;
 
     flightQ(){};
     flightQ(string d, string a, string t){
@@ -23,18 +24,25 @@ struct flightQ{
 
 class Queue{
 public:
+    Queue(){};
     Queue(int max){
             queueHead = queueTail = -1;
             queueSize = max;
             queueCount = 0;
-            fQueue = new flight[max];
-    }
+            fQueue = new flightQ[max];
+    };
     //circular queue methods
     bool enqueue(flightQ f);
     flightQ dequeue();
-    void printQueue(); //probably good for debug
+    void printQueue();
     bool queueIsFull(); //check when full
     bool queueIsEmpty(); //check when empty
+    int getTail();
+    flightQ *getfQueue();
+    void deleteFlight(string s, string e);
+    int generateRandNum();
+    void infectAndTrace(int i);
+    bool searchVector(vector<string> a, string b);
     
 protected:
 private:
@@ -43,9 +51,6 @@ private:
     int queueTail;
     int queueCount;
     flightQ *fQueue;
-
-
-
 
 };
 
