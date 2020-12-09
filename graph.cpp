@@ -130,7 +130,7 @@ airport* Graph::airportIsVisited(std::string name){
 int Graph::foundFlightDistance(string start, string end){
     for (int i=0; i<airports.size(); i++){
         if (airports[i]->name.substr(airports[i]->name.length()-4, 3)== start){
-            for (int j=0; i<airports[i]->departures.size(); j++){
+            for (int j=0; j<airports[i]->departures.size(); j++){
                 if (airports[i]->departures[j].a->name.substr(airports[i]->departures[j].a->name.length()-4, 3)==end){
                     return airports[i]->departures[j].distance;
                 }

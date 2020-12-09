@@ -99,6 +99,7 @@ int main (int argc, const char * argv[]){
 
                 int distance=g.foundFlightDistance(start, end);
                 if (distance!=-1){
+                    cout<<"here"<<endl;
                     dist=to_string(distance);
                 }
                 else{
