@@ -7,9 +7,9 @@ My final project is going to consist of two data structures. One of them will be
 
 How	to	Run: 
 
-In the terminal use to compile: g++ -std=c++11 graph.cpp queue.cpp finalProject.cpp -o finalProject
-In the terminal use to run: ./finalProject finalProjectData.csv
-Use the pop up menu to naviagte the program and manipulate the data structures
+1. In the terminal use to compile: g++ -std=c++11 graph.cpp queue.cpp finalProject.cpp -o finalProject
+2. In the terminal use to run: ./finalProject finalProjectData.csv
+3. Use the pop up menu to naviagte the program and manipulate the data structures
 
 Use the menu to interact with the program and change the data structure. 
 
